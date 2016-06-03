@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Fragment Basics</string>
+    <string name="top_text">Top Text</string>
+    <string name="below_text">Below Text</string>
+    <string name="create_meme">Create Meme</string>
+    <string name="cd_man_eat_burger">Man eating burger</string>
 </resources>
